@@ -15,14 +15,13 @@ Vejo a tecnologia como uma poderosa ferramenta de transformação: quando aplica
 ### 🤖 Linguagens e Tecnologias
 
 <p align="left">
-  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/9df51d57-66d7-4985-8d43-3681b7eb9470" alt="SQL Server/Oracle/MySQL/PostGree" title="SQL Language" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" title="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java" title="Java" />
-  <img src="https://img.icons8.com/?size=100&id=Fycm8TUhWmFU&format=png" width="60" height="60" alt="C#" title="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50" height="50" alt="React" title="React"/>
+ 
+
+
+
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,java,python,js,react,html,css,vscode)](https://skillicons.dev)
+
+
 </p>
 
 ### 📊 Estatísticas
