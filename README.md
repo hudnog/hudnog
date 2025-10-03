@@ -19,7 +19,7 @@ Vejo a tecnologia como uma poderosa ferramenta de transformação: quando aplica
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,java,python,js,react,html,css,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,java,python,js,react,html,css,vscode)](https://github.com/hudnog)
 
 
 </p>
