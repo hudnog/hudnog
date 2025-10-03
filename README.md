@@ -17,7 +17,10 @@ Com a filosofia de aprendizado contínuo, venho direcionando meus projetos para 
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,java,python,js,react,html,css,vscode)](https://github.com/hudnog)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,java,python,js,react,html,css,vscode)](https://github.com/hudnog) <img width="55" height="55" alt="Python-Dark" src="https://github.com/user-attachments/assets/3eca15bf-2519-43e3-b825-b761d7167777" />
+
+
+
 
 
 </p>
