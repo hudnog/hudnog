@@ -1,8 +1,9 @@
-# 👩🏻‍💻 Hudson Nogueira
+# <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/bb6a2056-23f8-4595-b4c1-b735ccb0fe96" />  Hudson Nogueira
 
-**`Desenvolvedora FullStack`**
+**` Lets Rock! `**
 
-Olá! me chamo Hudson Nogueira
+Olá! me chamo Hudson Nogueira <br/>
+ <br/>
 Sou profissional de TI com mais de 8 anos de experiência, Bacharel em Sistemas de Informação e Pós-graduado em Engenharia de Software com métodos Ágeis. Atualmente atuo como Analista de Implantação de Sistemas, responsável pela integração e implantação de sistemas corporativos em clientes de médio e grande porte, acompanhando todo o ciclo de projetos: análise, configuração, testes, validação e suporte pós-implantação.
 
 Atuei por vários anos na área de Suporte Técnico, com experiência em infraestrutura, redes, ambientes Windows/Windows Server, Active Directory, impressoras corporativas e sistemas como Protheus e Oracle Service Cloud. Possuo tambem habilitades analiticas com Excel avançado, comparando e filtrando dados para identificação de insighs relevantes.
@@ -14,7 +15,7 @@ Vejo a tecnologia como uma poderosa ferramenta de transformação: quando aplica
 ### 🤖 Linguagens e Tecnologias
 
 <p align="left">
-  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/9df51d57-66d7-4985-8d43-3681b7eb9470" alt="SQL Server/Oracle/MySQL/PostGree" title="SQL Server" />
+  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/9df51d57-66d7-4985-8d43-3681b7eb9470" alt="SQL Server/Oracle/MySQL/PostGree" title="SQL Language" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" title="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java" title="Java" />
   <img src="https://img.icons8.com/?size=100&id=Fycm8TUhWmFU&format=png" width="60" height="60" alt="C#" title="C#"/>
