@@ -1,6 +1,6 @@
-Hudson Nogueira
+# 👩🏻‍💻 Hudson Nogueira
 
-**`Futuro Engenheiro de Software`**
+**`Desenvolvedora FullStack`**
 
 Olá! me chamo Hudson Nogueira
 Sou profissional de TI com mais de 8 anos de experiência, Bacharel em Sistemas de Informação e Pós-graduado em Engenharia de Software com métodos Ágeis. Atualmente atuo como Analista de Implantação de Sistemas, responsável pela integração e implantação de sistemas corporativos em clientes de médio e grande porte, acompanhando todo o ciclo de projetos: análise, configuração, testes, validação e suporte pós-implantação.
