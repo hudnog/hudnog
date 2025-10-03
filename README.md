@@ -10,8 +10,6 @@ Atuei por vários anos na área de Suporte Técnico, com experiência em infraes
 
 Com a filosofia de aprendizado contínuo, venho direcionando meus projetos para o desenvolvimento de software e soluções digitais, explorando HTML, CSS, JavaScript, Python, Java e C#. Essa jornada me motiva, pois acredito no potencial de criar soluções que realmente fazem a diferença para pessoas e negócios.
 
-Vejo a tecnologia como uma poderosa ferramenta de transformação: quando aplicada com propósito, simplifica rotinas, gera eficiência e abre espaço para inovação. Esse é o caminho que sigo e quero continuar construindo. Com uma abordagem proativa e analítica, busco antecipar necessidades, otimizar processos e contribuir para a evolução contínua dos ambientes em que atuo.
-
 ### 🤖 Linguagens e Tecnologias
 
 <p align="left">
