@@ -1,4 +1,3 @@
-<img width="800" height="100" alt="Novo Projeto (1)" src="https://github.com/user-attachments/assets/3fbcc526-219c-4958-910e-cab2ab6b4529" />
 # <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/bb6a2056-23f8-4595-b4c1-b735ccb0fe96" />  Hudson Nogueira
 
 **` Lets Rock! `**
