@@ -5,7 +5,7 @@
   </a>
 
   <p align="center">
-     <b>Analista de Sistemas | Engenharia de Software | .NET Ecosystem</b>
+     <b>Analista de Sistemas | Engenheiro de Software | .NET Ecosystem</b>
   </p>
 
   <p align="center">
