@@ -29,7 +29,7 @@
 
 Com mais de **8 anos de experiência** no ecossistema de TI, trago um diferencial competitivo: a visão analítica de quem já gerenciou infraestrutura e resolveu milhares de incidentes em produção.
 
-Minha transição para o desenvolvimento não começa do zero. Eu utilizo minha bagagem em **Implantação e Infraestrutura** para construir softwares que são:
+Minha transição para o desenvolvimento não começa do zero. Eu utilizo minha bagagem em **Implantação e Infraestrutura/Suporte** para construir softwares que são:
 * ✅ **Resilientes** (pensados para não quebrar em produção);
 * ✅ **Testáveis** (foco em qualidade desde a primeira linha);
 * ✅ **Orientados ao Negócio** (resolvendo problemas reais).
