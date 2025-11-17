@@ -1,29 +1,42 @@
-# <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/bb6a2056-23f8-4595-b4c1-b735ccb0fe96" />  Hudson Nogueira
+# Olá, eu sou Hudson Nogueira! 🚀
 
-**` Lets Rock! `**
+### 👨‍💻 Desenvolvedor de Software | .NET & C# 
 
-Olá! me chamo Hudson Nogueira <br/>
- <br/>
-Sou profissional de TI com mais de 8 anos de experiência, Bacharel em Sistemas de Informação e Pós-graduado em Engenharia de Software com métodos Ágeis. Atualmente atuo como Analista de Implantação de Sistemas, responsável pela integração e implantação de sistemas corporativos em clientes de médio e grande porte, acompanhando todo o ciclo de projetos: análise, configuração, testes, validação e suporte pós-implantação.
+Com mais de **8 anos de experiência** no ecossistema de TI, combino uma base sólida em **Implantação de Sistemas e Infraestrutura** com a Engenharia de Software moderna. 
 
-Atuei por vários anos na área de Suporte Técnico, com experiência em infraestrutura, redes, ambientes Windows/Windows Server, Active Directory, impressoras corporativas e sistemas como Protheus e Oracle Service Cloud. Possuo tambem habilitades analiticas com Excel avançado, comparando e filtrando dados para identificação de insighs relevantes.
+Minha transição não é começar do zero: é aplicar a visão analítica de quem já resolveu milhares de incidentes em produção para **construir softwares resilientes, testáveis e focados na dor real do negócio**.
 
-Com a filosofia de aprendizado contínuo, venho direcionando meus projetos para o desenvolvimento de software e soluções digitais, explorando HTML, CSS, JavaScript, Python, Java e C#. Essa jornada me motiva, pois acredito no potencial de criar soluções que realmente fazem a diferença para pessoas e negócios.
+Atualmente, estou focado em resolver problemas de integração e automação utilizando o ecossistema Microsoft.
 
-### 🤖 Linguagens e Tecnologias
+---
 
-<p align="left">
- 
+### 🛠️ Tech Stack & Ferramentas
+
+**Backend & Core:**
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+
+**Frontend & Web:**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
 
+**Outras Skills:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,java,python,js,react,html,css,vscode)](https://github.com/hudnog) <img width="55" height="55" alt="Python-Dark" src="https://github.com/user-attachments/assets/3eca15bf-2519-43e3-b825-b761d7167777" />
+---
 
+### 🔭 O que estou construindo agora
+- Um hub de monitoramento e automação para gestão de APIs de NFe e configurações de ambiente (Focado em resolver dores operacionais reais).
+* **Estudos Diários:** Dedico 80 min/dia em aprofundamento de Arquitetura de Software e Clean Code.
 
-
-
-
-</p>
+---
 
 ### 📊 Estatísticas
 
@@ -51,9 +64,10 @@ Com a filosofia de aprendizado contínuo, venho direcionando meus projetos para 
 <br/>
 <br/>
 
-## 📫 Como me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hudnog)  / 📧 hudson.nogsilva@gmail.com  
-
 ---
 
-✨ *“Transformando processos complexos em soluções simples e eficientes.”*  
+## 📫 Como me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hudnog/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@hudcode)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hudson.nogsilva@gmail.com)
