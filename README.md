@@ -27,7 +27,7 @@
 
 > *"Não apenas escrevo código; eu resolvo dores operacionais."*
 
-Com mais de **8 anos de experiência** no ecossistema de TI, trago um diferencial competitivo: a visão analítica de quem já gerenciou infraestrutura e resolveu milhares de incidentes em produção.
+Com mais de **8 anos de experiência** no ecossistema de TI, trago um diferencial competitivo: a visão analítica de quem atuou na sustentação de ambientes críticos e resolveu milhares de incidentes em produção.
 
 Minha transição para o desenvolvimento não começa do zero. Eu utilizo minha bagagem em **Implantação e Infraestrutura/Suporte** para construir softwares que são:
 * ✅ **Resilientes** (pensados para não quebrar em produção);
