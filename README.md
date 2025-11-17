@@ -91,7 +91,7 @@ Atualmente, meu foco é arquitetar soluções de integração e automação robu
       <p>Desenvolvendo um <b>Hub de Monitoramento e Automação</b> para gestão de APIs de NFe.</p>
       <ul>
         <li><b>Objetivo:</b> Eliminar tarefas manuais repetitivas e reduzir erros operacionais.</li>
-        <li><b>Tech:</b> .NET 8, Integrações de API, Arquitetura Limpa.</li>
+        <li><b>Tech:</b> .NET 8, Integrações de API, Arquitetura Limpa.</li><br />
       </ul>
     </td>
     <td width="50%">
@@ -102,7 +102,7 @@ Atualmente, meu foco é arquitetar soluções de integração e automação robu
         <li>Performance Tuning em C#.</li>
         <li>Melhores práticas de DevOps.</li>
       </ul>
-    </td>
+    </td> 
   </tr>
 </table>
 
