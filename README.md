@@ -68,7 +68,7 @@ Atualmente, meu foco é arquitetar soluções de integração e automação robu
 
   <tr>
     <td align="center" width="150">
-       <img src="https://img.shields.io/badge/Infra_&_Agile-1a1a1a?style=flat-square&logo=azure&logoColor=white" alt="Infra"/>
+       <img src="https://img.shields.io/badge/Tools_&_Agile-1a1a1a?style=flat-square&logo=azure&logoColor=white" alt="Infra"/>
     </td>
     <td align="center">
        <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
